@@ -1,0 +1,16 @@
+C:\Users\90531\Desktop\PatikaDevDegiskenler\TipDegiskenler\bin\Debug\net5.0\TipDegiskenler.exe
+C:\Users\90531\Desktop\PatikaDevDegiskenler\TipDegiskenler\bin\Debug\net5.0\TipDegiskenler.deps.json
+C:\Users\90531\Desktop\PatikaDevDegiskenler\TipDegiskenler\bin\Debug\net5.0\TipDegiskenler.runtimeconfig.json
+C:\Users\90531\Desktop\PatikaDevDegiskenler\TipDegiskenler\bin\Debug\net5.0\TipDegiskenler.runtimeconfig.dev.json
+C:\Users\90531\Desktop\PatikaDevDegiskenler\TipDegiskenler\bin\Debug\net5.0\TipDegiskenler.dll
+C:\Users\90531\Desktop\PatikaDevDegiskenler\TipDegiskenler\bin\Debug\net5.0\ref\TipDegiskenler.dll
+C:\Users\90531\Desktop\PatikaDevDegiskenler\TipDegiskenler\bin\Debug\net5.0\TipDegiskenler.pdb
+C:\Users\90531\Desktop\PatikaDevDegiskenler\TipDegiskenler\obj\Debug\net5.0\TipDegiskenler.csproj.AssemblyReference.cache
+C:\Users\90531\Desktop\PatikaDevDegiskenler\TipDegiskenler\obj\Debug\net5.0\TipDegiskenler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90531\Desktop\PatikaDevDegiskenler\TipDegiskenler\obj\Debug\net5.0\TipDegiskenler.AssemblyInfoInputs.cache
+C:\Users\90531\Desktop\PatikaDevDegiskenler\TipDegiskenler\obj\Debug\net5.0\TipDegiskenler.AssemblyInfo.cs
+C:\Users\90531\Desktop\PatikaDevDegiskenler\TipDegiskenler\obj\Debug\net5.0\TipDegiskenler.csproj.CoreCompileInputs.cache
+C:\Users\90531\Desktop\PatikaDevDegiskenler\TipDegiskenler\obj\Debug\net5.0\TipDegiskenler.dll
+C:\Users\90531\Desktop\PatikaDevDegiskenler\TipDegiskenler\obj\Debug\net5.0\ref\TipDegiskenler.dll
+C:\Users\90531\Desktop\PatikaDevDegiskenler\TipDegiskenler\obj\Debug\net5.0\TipDegiskenler.pdb
+C:\Users\90531\Desktop\PatikaDevDegiskenler\TipDegiskenler\obj\Debug\net5.0\TipDegiskenler.genruntimeconfig.cache
