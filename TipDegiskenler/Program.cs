@@ -42,6 +42,16 @@ namespace TipDegiskenler
            string yy=xx.ToString();
            string zz = 12.5f.ToString();
            Console.WriteLine(zz);
+
+           //system convert
+
+           string s1="10",s2="20";
+           int sayi1,sayi2;
+           int toplam;
+
+           sayi1=Convert.ToInt32(s1);
+           sayi2=Convert.ToInt32(s2);
+           toplam = sayi1+sayi2;
         }
     }
 }
