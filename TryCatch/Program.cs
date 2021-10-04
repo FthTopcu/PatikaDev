@@ -24,7 +24,7 @@ namespace TryCatch
            {
                //int a=int.Parse(null);
                 int a=int.Parse("test");
-                int a=int.Parse("-2000000000000000");
+                int g=int.Parse("-2000000000000000");
            }
            catch(ArgumentNullException ex)
            {
@@ -38,7 +38,7 @@ namespace TryCatch
            }
            catch(OverflowException ex)
            {
-               Console.WriteLine("cok kucuk ya da cok buyuk bir deger girdinz")
+               Console.WriteLine("cok kucuk ya da cok buyuk bir deger girdinz");
                Console.WriteLine(ex);
            }
            finally{
