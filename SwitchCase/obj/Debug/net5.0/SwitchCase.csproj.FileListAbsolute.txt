@@ -1,0 +1,16 @@
+C:\Users\90531\Desktop\PatikaDevDegiskenler\SwitchCase\bin\Debug\net5.0\SwitchCase.exe
+C:\Users\90531\Desktop\PatikaDevDegiskenler\SwitchCase\bin\Debug\net5.0\SwitchCase.deps.json
+C:\Users\90531\Desktop\PatikaDevDegiskenler\SwitchCase\bin\Debug\net5.0\SwitchCase.runtimeconfig.json
+C:\Users\90531\Desktop\PatikaDevDegiskenler\SwitchCase\bin\Debug\net5.0\SwitchCase.runtimeconfig.dev.json
+C:\Users\90531\Desktop\PatikaDevDegiskenler\SwitchCase\bin\Debug\net5.0\SwitchCase.dll
+C:\Users\90531\Desktop\PatikaDevDegiskenler\SwitchCase\bin\Debug\net5.0\ref\SwitchCase.dll
+C:\Users\90531\Desktop\PatikaDevDegiskenler\SwitchCase\bin\Debug\net5.0\SwitchCase.pdb
+C:\Users\90531\Desktop\PatikaDevDegiskenler\SwitchCase\obj\Debug\net5.0\SwitchCase.csproj.AssemblyReference.cache
+C:\Users\90531\Desktop\PatikaDevDegiskenler\SwitchCase\obj\Debug\net5.0\SwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90531\Desktop\PatikaDevDegiskenler\SwitchCase\obj\Debug\net5.0\SwitchCase.AssemblyInfoInputs.cache
+C:\Users\90531\Desktop\PatikaDevDegiskenler\SwitchCase\obj\Debug\net5.0\SwitchCase.AssemblyInfo.cs
+C:\Users\90531\Desktop\PatikaDevDegiskenler\SwitchCase\obj\Debug\net5.0\SwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\90531\Desktop\PatikaDevDegiskenler\SwitchCase\obj\Debug\net5.0\SwitchCase.dll
+C:\Users\90531\Desktop\PatikaDevDegiskenler\SwitchCase\obj\Debug\net5.0\ref\SwitchCase.dll
+C:\Users\90531\Desktop\PatikaDevDegiskenler\SwitchCase\obj\Debug\net5.0\SwitchCase.pdb
+C:\Users\90531\Desktop\PatikaDevDegiskenler\SwitchCase\obj\Debug\net5.0\SwitchCase.genruntimeconfig.cache
