@@ -1,0 +1,16 @@
+C:\Users\90531\Desktop\PatikaDevDegiskenler\Arrayler\bin\Debug\net5.0\Arrayler.exe
+C:\Users\90531\Desktop\PatikaDevDegiskenler\Arrayler\bin\Debug\net5.0\Arrayler.deps.json
+C:\Users\90531\Desktop\PatikaDevDegiskenler\Arrayler\bin\Debug\net5.0\Arrayler.runtimeconfig.json
+C:\Users\90531\Desktop\PatikaDevDegiskenler\Arrayler\bin\Debug\net5.0\Arrayler.runtimeconfig.dev.json
+C:\Users\90531\Desktop\PatikaDevDegiskenler\Arrayler\bin\Debug\net5.0\Arrayler.dll
+C:\Users\90531\Desktop\PatikaDevDegiskenler\Arrayler\bin\Debug\net5.0\ref\Arrayler.dll
+C:\Users\90531\Desktop\PatikaDevDegiskenler\Arrayler\bin\Debug\net5.0\Arrayler.pdb
+C:\Users\90531\Desktop\PatikaDevDegiskenler\Arrayler\obj\Debug\net5.0\Arrayler.csproj.AssemblyReference.cache
+C:\Users\90531\Desktop\PatikaDevDegiskenler\Arrayler\obj\Debug\net5.0\Arrayler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90531\Desktop\PatikaDevDegiskenler\Arrayler\obj\Debug\net5.0\Arrayler.AssemblyInfoInputs.cache
+C:\Users\90531\Desktop\PatikaDevDegiskenler\Arrayler\obj\Debug\net5.0\Arrayler.AssemblyInfo.cs
+C:\Users\90531\Desktop\PatikaDevDegiskenler\Arrayler\obj\Debug\net5.0\Arrayler.csproj.CoreCompileInputs.cache
+C:\Users\90531\Desktop\PatikaDevDegiskenler\Arrayler\obj\Debug\net5.0\Arrayler.dll
+C:\Users\90531\Desktop\PatikaDevDegiskenler\Arrayler\obj\Debug\net5.0\ref\Arrayler.dll
+C:\Users\90531\Desktop\PatikaDevDegiskenler\Arrayler\obj\Debug\net5.0\Arrayler.pdb
+C:\Users\90531\Desktop\PatikaDevDegiskenler\Arrayler\obj\Debug\net5.0\Arrayler.genruntimeconfig.cache
