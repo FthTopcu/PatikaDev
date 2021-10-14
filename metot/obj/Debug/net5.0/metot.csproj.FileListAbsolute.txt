@@ -1,0 +1,16 @@
+C:\Users\90531\Desktop\PatikaDevDegiskenler\metot\bin\Debug\net5.0\metot.exe
+C:\Users\90531\Desktop\PatikaDevDegiskenler\metot\bin\Debug\net5.0\metot.deps.json
+C:\Users\90531\Desktop\PatikaDevDegiskenler\metot\bin\Debug\net5.0\metot.runtimeconfig.json
+C:\Users\90531\Desktop\PatikaDevDegiskenler\metot\bin\Debug\net5.0\metot.runtimeconfig.dev.json
+C:\Users\90531\Desktop\PatikaDevDegiskenler\metot\bin\Debug\net5.0\metot.dll
+C:\Users\90531\Desktop\PatikaDevDegiskenler\metot\bin\Debug\net5.0\ref\metot.dll
+C:\Users\90531\Desktop\PatikaDevDegiskenler\metot\bin\Debug\net5.0\metot.pdb
+C:\Users\90531\Desktop\PatikaDevDegiskenler\metot\obj\Debug\net5.0\metot.csproj.AssemblyReference.cache
+C:\Users\90531\Desktop\PatikaDevDegiskenler\metot\obj\Debug\net5.0\metot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90531\Desktop\PatikaDevDegiskenler\metot\obj\Debug\net5.0\metot.AssemblyInfoInputs.cache
+C:\Users\90531\Desktop\PatikaDevDegiskenler\metot\obj\Debug\net5.0\metot.AssemblyInfo.cs
+C:\Users\90531\Desktop\PatikaDevDegiskenler\metot\obj\Debug\net5.0\metot.csproj.CoreCompileInputs.cache
+C:\Users\90531\Desktop\PatikaDevDegiskenler\metot\obj\Debug\net5.0\metot.dll
+C:\Users\90531\Desktop\PatikaDevDegiskenler\metot\obj\Debug\net5.0\ref\metot.dll
+C:\Users\90531\Desktop\PatikaDevDegiskenler\metot\obj\Debug\net5.0\metot.pdb
+C:\Users\90531\Desktop\PatikaDevDegiskenler\metot\obj\Debug\net5.0\metot.genruntimeconfig.cache
