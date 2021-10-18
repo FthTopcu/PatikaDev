@@ -1,0 +1,16 @@
+C:\Users\90531\Desktop\PatikaDevDegiskenler\recursiveVeExtensionMetot\bin\Debug\net5.0\recursiveVeExtensionMetot.exe
+C:\Users\90531\Desktop\PatikaDevDegiskenler\recursiveVeExtensionMetot\bin\Debug\net5.0\recursiveVeExtensionMetot.deps.json
+C:\Users\90531\Desktop\PatikaDevDegiskenler\recursiveVeExtensionMetot\bin\Debug\net5.0\recursiveVeExtensionMetot.runtimeconfig.json
+C:\Users\90531\Desktop\PatikaDevDegiskenler\recursiveVeExtensionMetot\bin\Debug\net5.0\recursiveVeExtensionMetot.runtimeconfig.dev.json
+C:\Users\90531\Desktop\PatikaDevDegiskenler\recursiveVeExtensionMetot\bin\Debug\net5.0\recursiveVeExtensionMetot.dll
+C:\Users\90531\Desktop\PatikaDevDegiskenler\recursiveVeExtensionMetot\bin\Debug\net5.0\ref\recursiveVeExtensionMetot.dll
+C:\Users\90531\Desktop\PatikaDevDegiskenler\recursiveVeExtensionMetot\bin\Debug\net5.0\recursiveVeExtensionMetot.pdb
+C:\Users\90531\Desktop\PatikaDevDegiskenler\recursiveVeExtensionMetot\obj\Debug\net5.0\recursiveVeExtensionMetot.csproj.AssemblyReference.cache
+C:\Users\90531\Desktop\PatikaDevDegiskenler\recursiveVeExtensionMetot\obj\Debug\net5.0\recursiveVeExtensionMetot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90531\Desktop\PatikaDevDegiskenler\recursiveVeExtensionMetot\obj\Debug\net5.0\recursiveVeExtensionMetot.AssemblyInfoInputs.cache
+C:\Users\90531\Desktop\PatikaDevDegiskenler\recursiveVeExtensionMetot\obj\Debug\net5.0\recursiveVeExtensionMetot.AssemblyInfo.cs
+C:\Users\90531\Desktop\PatikaDevDegiskenler\recursiveVeExtensionMetot\obj\Debug\net5.0\recursiveVeExtensionMetot.csproj.CoreCompileInputs.cache
+C:\Users\90531\Desktop\PatikaDevDegiskenler\recursiveVeExtensionMetot\obj\Debug\net5.0\recursiveVeExtensionMetot.dll
+C:\Users\90531\Desktop\PatikaDevDegiskenler\recursiveVeExtensionMetot\obj\Debug\net5.0\ref\recursiveVeExtensionMetot.dll
+C:\Users\90531\Desktop\PatikaDevDegiskenler\recursiveVeExtensionMetot\obj\Debug\net5.0\recursiveVeExtensionMetot.pdb
+C:\Users\90531\Desktop\PatikaDevDegiskenler\recursiveVeExtensionMetot\obj\Debug\net5.0\recursiveVeExtensionMetot.genruntimeconfig.cache
