@@ -16,7 +16,6 @@ namespace Koleksiyonlar_Soru_2
             for (int i = 0; i < 20; i++)
             {
                 sayi = Convert.ToInt32(Console.ReadLine());
-                sayi = rnd.Next(0,50);
                 dizi[i]=sayi;
             }
             Array.Sort(dizi);
