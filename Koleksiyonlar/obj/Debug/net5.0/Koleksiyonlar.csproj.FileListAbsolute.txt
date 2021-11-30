@@ -1,0 +1,16 @@
+C:\Users\90531\Desktop\PatikaDevDegiskenler\Koleksiyonlar\bin\Debug\net5.0\Koleksiyonlar.exe
+C:\Users\90531\Desktop\PatikaDevDegiskenler\Koleksiyonlar\bin\Debug\net5.0\Koleksiyonlar.deps.json
+C:\Users\90531\Desktop\PatikaDevDegiskenler\Koleksiyonlar\bin\Debug\net5.0\Koleksiyonlar.runtimeconfig.json
+C:\Users\90531\Desktop\PatikaDevDegiskenler\Koleksiyonlar\bin\Debug\net5.0\Koleksiyonlar.runtimeconfig.dev.json
+C:\Users\90531\Desktop\PatikaDevDegiskenler\Koleksiyonlar\bin\Debug\net5.0\Koleksiyonlar.dll
+C:\Users\90531\Desktop\PatikaDevDegiskenler\Koleksiyonlar\bin\Debug\net5.0\ref\Koleksiyonlar.dll
+C:\Users\90531\Desktop\PatikaDevDegiskenler\Koleksiyonlar\bin\Debug\net5.0\Koleksiyonlar.pdb
+C:\Users\90531\Desktop\PatikaDevDegiskenler\Koleksiyonlar\obj\Debug\net5.0\Koleksiyonlar.csproj.AssemblyReference.cache
+C:\Users\90531\Desktop\PatikaDevDegiskenler\Koleksiyonlar\obj\Debug\net5.0\Koleksiyonlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90531\Desktop\PatikaDevDegiskenler\Koleksiyonlar\obj\Debug\net5.0\Koleksiyonlar.AssemblyInfoInputs.cache
+C:\Users\90531\Desktop\PatikaDevDegiskenler\Koleksiyonlar\obj\Debug\net5.0\Koleksiyonlar.AssemblyInfo.cs
+C:\Users\90531\Desktop\PatikaDevDegiskenler\Koleksiyonlar\obj\Debug\net5.0\Koleksiyonlar.csproj.CoreCompileInputs.cache
+C:\Users\90531\Desktop\PatikaDevDegiskenler\Koleksiyonlar\obj\Debug\net5.0\Koleksiyonlar.dll
+C:\Users\90531\Desktop\PatikaDevDegiskenler\Koleksiyonlar\obj\Debug\net5.0\ref\Koleksiyonlar.dll
+C:\Users\90531\Desktop\PatikaDevDegiskenler\Koleksiyonlar\obj\Debug\net5.0\Koleksiyonlar.pdb
+C:\Users\90531\Desktop\PatikaDevDegiskenler\Koleksiyonlar\obj\Debug\net5.0\Koleksiyonlar.genruntimeconfig.cache
