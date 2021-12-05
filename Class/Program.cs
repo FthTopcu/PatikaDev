@@ -20,11 +20,7 @@ namespace Class
             //private
             //ınternal
             //protected
-            Calisan calisan1=new Calisan();
-            calisan1.Ad="ayşe";
-            calisan1.Soyad="kara";
-            calisan1.No=15843;
-            calisan1.Departman="İK";
+            Calisan calisan1=new Calisan("ayşe","kara",15843,"İK");
             calisan1.CalisanBilgileri();
 
             Calisan calisan2=new Calisan();
@@ -34,6 +30,8 @@ namespace Class
             calisan2.Departman="K";
             calisan2.CalisanBilgileri();
 
+            Calisan calisan3=new Calisan("ayşe","kara");
+            calisan3.CalisanBilgileri();
 
             
         }
@@ -44,6 +42,19 @@ namespace Class
         public string Soyad;
         public int No;
         public string Departman;
+        public Calisan(string ad , string soyad , int no , string departman)
+        {
+            this.Ad = ad;
+            this.Soyad = soyad;
+            this.No = no;
+            this.Departman = departman; 
+        }
+        public Calisan(string ad , string soyad )
+        {
+            this.Ad = ad;
+            this.Soyad = soyad;
+        }
+        public Calisan(){}
         public void CalisanBilgileri()
         {
             System.Console.WriteLine(Ad);
