@@ -1,0 +1,16 @@
+C:\Users\90531\Desktop\PatikaDevDegiskenler\Encapsulation and property\bin\Debug\net5.0\Encapsulation and property.exe
+C:\Users\90531\Desktop\PatikaDevDegiskenler\Encapsulation and property\bin\Debug\net5.0\Encapsulation and property.deps.json
+C:\Users\90531\Desktop\PatikaDevDegiskenler\Encapsulation and property\bin\Debug\net5.0\Encapsulation and property.runtimeconfig.json
+C:\Users\90531\Desktop\PatikaDevDegiskenler\Encapsulation and property\bin\Debug\net5.0\Encapsulation and property.runtimeconfig.dev.json
+C:\Users\90531\Desktop\PatikaDevDegiskenler\Encapsulation and property\bin\Debug\net5.0\Encapsulation and property.dll
+C:\Users\90531\Desktop\PatikaDevDegiskenler\Encapsulation and property\bin\Debug\net5.0\ref\Encapsulation and property.dll
+C:\Users\90531\Desktop\PatikaDevDegiskenler\Encapsulation and property\bin\Debug\net5.0\Encapsulation and property.pdb
+C:\Users\90531\Desktop\PatikaDevDegiskenler\Encapsulation and property\obj\Debug\net5.0\Encapsulation and property.csproj.AssemblyReference.cache
+C:\Users\90531\Desktop\PatikaDevDegiskenler\Encapsulation and property\obj\Debug\net5.0\Encapsulation and property.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90531\Desktop\PatikaDevDegiskenler\Encapsulation and property\obj\Debug\net5.0\Encapsulation and property.AssemblyInfoInputs.cache
+C:\Users\90531\Desktop\PatikaDevDegiskenler\Encapsulation and property\obj\Debug\net5.0\Encapsulation and property.AssemblyInfo.cs
+C:\Users\90531\Desktop\PatikaDevDegiskenler\Encapsulation and property\obj\Debug\net5.0\Encapsulation and property.csproj.CoreCompileInputs.cache
+C:\Users\90531\Desktop\PatikaDevDegiskenler\Encapsulation and property\obj\Debug\net5.0\Encapsulation and property.dll
+C:\Users\90531\Desktop\PatikaDevDegiskenler\Encapsulation and property\obj\Debug\net5.0\ref\Encapsulation and property.dll
+C:\Users\90531\Desktop\PatikaDevDegiskenler\Encapsulation and property\obj\Debug\net5.0\Encapsulation and property.pdb
+C:\Users\90531\Desktop\PatikaDevDegiskenler\Encapsulation and property\obj\Debug\net5.0\Encapsulation and property.genruntimeconfig.cache
